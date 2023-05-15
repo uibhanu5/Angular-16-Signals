@@ -1,6 +1,6 @@
 # AngularSignals
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-next.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-next.7. Minimum Node Version should be V 16.0
 
 ## Development server
 
