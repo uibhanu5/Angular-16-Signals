@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: fce7cb93cb7ff4d1977957f66456bca583cb1a1b34c6d1631943a6c5379f478c
+- filename: src/index.html
+  checksum: b997f7bddd63e8d7d24866e374c0c515376a4f551beb07892bebe8e349d48778
+version: "1.0"
